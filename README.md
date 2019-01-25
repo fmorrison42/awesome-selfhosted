@@ -651,6 +651,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [Up1](https://github.com/Upload/Up1) - A Client-side Encrypted Image Host. ([Demo](https://up1.ca/)) `MIT` `Nodejs`
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source Code](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source Code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
+  *[ZippyShare](https://zippyshare.com) - Online free drag and drop file transfer site. Unlimited space, no download limits. 
 
 #### Web based file managers
 
